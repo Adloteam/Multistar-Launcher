@@ -1,0 +1,33 @@
+(2022-03-12 21:20:26) : [MULTISTAR] : Getting current version on the server...
+(2022-03-12 21:20:26) : [MULTISTAR] : Version check complete. Your version : 0.1.2 | Latest version : 0.1.2
+(2022-03-12 21:20:26) : [MULTISTAR] : Settings saved !
+(2022-03-12 21:20:26) : [MULTISTAR] : Settings saved !
+(2022-03-12 21:20:26) : [MULTISTAR] : Settings saved !
+(2022-03-12 21:20:26) : [MULTISTAR] : Settings saved !
+(2022-03-12 21:20:26) : [MSMC]: OS Type => Windows_NT
+(2022-03-12 21:20:26) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
+(2022-03-12 21:20:26) : [MSMC][Browser]: devtools listening on ws://127.0.0.1:58757/devtools/browser/e9aeda93-abcd-45e0-804b-64d3b623b6cf
+(2022-03-12 21:20:26) : [MSMC]: Debug hook => http://127.0.0.1:58757
+(2022-03-12 21:20:26) : [MULTISTAR] : [Starting] : Loading (%)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (%)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : Logged in successfully !
+(2022-03-12 21:20:26) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-03-12 21:20:26) : [MULTISTAR] : Getting account information...
+(2022-03-12 21:20:26) : [MSMC][Browser]: devtools listening on ws://127.0.0.1:58784/devtools/browser/014816d6-9e02-4c09-9003-160a176ea88e
+(2022-03-12 21:20:26) : [MSMC]: Debug hook => http://127.0.0.1:58784
+(2022-03-12 21:20:26) : [MULTISTAR] : We failed to log someone in because : undefined
+(2022-03-12 21:20:26) : [MULTISTAR] : Getting current version on the server...
+(2022-03-12 21:20:26) : [MULTISTAR] : Version check complete. Your version : 0.1.2 | Latest version : 0.1.2
+(2022-03-12 21:20:26) : [MULTISTAR] : Starting!
+(2022-03-12 21:20:26) : cd736f-43cd8d-1014a74-2d1ceb-7f784d
+(2022-03-12 21:20:26) : [MULTISTAR] : [MCLC]: Set native path to D:\Libraries\Developpement\MultiStar Launcher\client\natives\1.18.1
+(2022-03-12 21:20:26) : [MULTISTAR] : [MCLC]: Using Java version 17.0.2 64-bit
+(2022-03-12 21:20:26) : [MULTISTAR] : [MCLC]: Collected class paths
+(2022-03-12 21:20:26) : [MULTISTAR] : [MCLC]: Using ; to separate class paths
+(2022-03-12 21:20:26) : [MULTISTAR] : [MCLC]: Attempting to download assets

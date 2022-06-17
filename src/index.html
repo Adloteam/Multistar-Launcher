@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="style/index.css" />
+  <script defer src="render.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            clifford: '#da373d',
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <div class="mainApp acrylic">
+    <div class="topBar">
+      <div class="titleBar">
+        <img src="icons/Multistar.png" alt="" width="40" , height="40">
+        <div class="title">
+          Multistar Launcher
+        </div>
+      </div>
+      <div class="titleBarBtns">
+        <button id="minimizeBtn" class="topBtn minimizeBtn" title="Minimize"></button>
+        <button id="closeBtn" class="topBtn closeBtn" title="Close"></button>
+      </div>
+    </div>
+
+    <div id="content">
+      <div id="profile">
+        <img src="" alt="" id="pfp" class="">
+        <p id="Message" class="text-white bold text-xl">Welcome to the Multistar Launcher.<br>Please log-in with your Microsoft account to continue</p>
+      </div>
+      <!-- TODO: AUTO LOGIN IF ACCOUNT IS STORED -->
+      <br>
+      <button id="startgame" class="mainButton bg-green-600 transition ease-in-out delay-60 shadow-2xl hover:shadow-lg"><i class="fa fa-gamepad" aria-hidden="true"></i> Start Game</button>
+      <br>
+      <button id="login-msmc" class="mainButton functionbtn transition ease-in-out delay-60 shadow-2xl hover:shadow-lg"><i class="lni lni-microsoft"></i> Log In with Microsoft</button>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <button id="configBtn" title="Settings" class="functionbtn"><i class="bi bi-gear-fill"></i></button>
+      <button id="refreshVerBtn" title="Check for updates" class="functionbtn"><i class="bi bi-arrow-counterclockwise"></i></button>
+      <button id="logoffBtn" title="Check for updates" class="invisible w-0 h-0"><i class="bi bi-door-open-fill"></i>Log off</button>
+      <br>
+      <button id="githubLink" style="color: rgb(70, 70, 70); text-decoration: none; font-size: 25px;" class="hover:text-gray-800"><i class="bi bi-github"></i></button>
+      <div id="popup-background"></div>
+      <div id="ConfigPopup">
+        <button id="closeOpBtn" title="Close without saving configuration" class="border-radius-100% transition ease-in-out delay-60 text-xs display-button color-white cursor-pointer outline-none shadow-2xl hover:shadow-lg text-white">&times;</button>
+        <div class="configForm">
+          <form action="POST">
+            <h1 class="configTitle">Advanced</h1>
+            <input type="checkbox" name="MCLCverbose" id="MCLCverbose" value="MCLCverboseOn" class="cursor-pointer option"
+              title="Enables the verbose mode of LWJGL (Displaying in the console (Ctrl+Shift+I)), you can leave it unchecked if you do not know what it is"><label
+              for="MCLCverbose"
+              title="Enables the verbose mode of LWJGL (Displaying in the console (Ctrl+Shift+I)), you can leave it unchecked if you do not know what it is">
+              LWJGL Debug mode <span class="configItemDesc">This option allows the Minecraft console to be displayed into the launcher console/logs</span></label>
+            <br>
+            <select name="maxRam" id="maxRam" title="Sets the maximum alocated ram for the client" class="text-white rounded border-gray-600 bg-gray-700 option">
+              <option value="2G" class="text-white bg-gray-700 border-none shadow-xl Coption">2 GO</option>
+              <option value="3G" class="text-white bg-gray-700 border-none shadow-xl Coption">3 GO</option>
+              <option value="4G" class="text-white bg-gray-700 border-none shadow-xl Coption">4 GO</option>
+              <option value="5G" class="text-white bg-gray-700 border-none shadow-xl Coption">5 GO</option>
+              <option value="6G" class="text-white bg-gray-700 border-none shadow-xl Coption">6 GO</option>
+              <option value="7G" class="text-white bg-gray-700 border-none shadow-xl Coption">7 GO</option>
+              <option value="8G" class="text-white bg-gray-700 border-none shadow-xl Coption">8 GO</option>
+            </select>
+            <label for="maxRam" title="Sets the maximum alocated ram for the client">Maximum Alocated RAM <span class="configItemDesc">This option sets the maximum RAM that java can allocate to Minecraft</span></label>
+          </form>
+        </div>
+        <br><br>
+        <!-- <a href="#" id="saveOpBtn" title="Save configuration and close" class="px-6 py-2.5 shadow-2xl transition ease-in-out delay-60 bg-blue-600 text-white font-medium text-xs leading-tight rounded hover:shadow-lg hover:bg-blue-700"><i class="fa fa-floppy-o" aria-hidden="true"></i> Save configuration & Close</a> -->
+        <a href="#" id="saveOpBtn" title="Save configuration and close" class="functionbtn"><i class="bi bi-save2-fill"></i> Save configuration & Close</a>
+        
+        <script defer>
+          // Get Localstorage
+          if (localStorage.MCLCverbose == "true") {
+            document.getElementById("MCLCverbose").checked = true;
+          } else if (localStorage.MCLCverbose == "false") {
+            document.getElementById("MCLCverbose").checked = false;
+          }
+          if(localStorage.MCLCverbose !== "true" && localStorage.MCLCverbose !== "false"){
+                document.getElementById("MCLCverbose").checked = false;
+                localStorage.MCLCverbose = "false";
+            }
+
+          if (localStorage.maxRam == "1G") {
+            document.getElementById("maxRam").selectedIndex = 0;
+          } else if (localStorage.maxRam == "2G") {
+            document.getElementById("maxRam").selectedIndex = 1;
+          } else if (localStorage.maxRam == "3G") {
+            document.getElementById("maxRam").selectedIndex = 2;
+          } else if (localStorage.maxRam == "4G") {
+            document.getElementById("maxRam").selectedIndex = 3;
+          } else if (localStorage.maxRam == "5G") {
+            document.getElementById("maxRam").selectedIndex = 4;
+          } else if (localStorage.maxRam == "6G") {
+            document.getElementById("maxRam").selectedIndex = 5;
+          } else if (localStorage.maxRam == "7G") {
+            document.getElementById("maxRam").selectedIndex = 6;
+          } else if (localStorage.maxRam == "8G") {
+            document.getElementById("maxRam").selectedIndex = 7;
+          }
+          if(!localStorage.maxRam !== "1G" && !localStorage.maxRam !== "2G" && !localStorage.maxRam !== "3G" && !localStorage.maxRam !== "4G" && !localStorage.maxRam !== "5G" && !localStorage.maxRam !== "6G" && !localStorage.maxRam !== "7G" && !localStorage.maxRam !== "8G") {
+                document.getElementById("maxRam").selectedIndex = 1;
+                localStorage.maxRam = "2G";
+            }
+        </script>
+        <script defer>
+          document.getElementById("saveOpBtn").addEventListener("click", function () {
+            var MCLCverbose = document.getElementById("MCLCverbose").checked;
+            if (MCLCverbose) {
+              localStorage.setItem("MCLCverbose", "true");
+            } else {
+              localStorage.setItem("MCLCverbose", "false");
+            }
+            var maxRam = document.getElementById("maxRam").value;
+            localStorage.setItem("maxRam", `${maxRam}`);
+            console.log("[MULTISTAR] : Settings saved !")
+          });
+        </script>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,1297 @@
+(2022-05-29 15:49:36) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 15:49:36) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 15:49:36) : [MSMC]: OS Type => Windows_NT
+(2022-05-29 15:49:36) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vivaldi.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\brave.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\brave.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vivaldi.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\blisk.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\blisk.exe"
+(2022-05-29 15:49:36) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\msedge.exe"
+(2022-05-29 15:49:36) : [MSMC][Browser]: devtools listening on ws://127.0.0.1:64059/devtools/browser/11552963-8abd-4a58-98a1-4159d79371bf
+(2022-05-29 15:49:36) : [MSMC]: Debug hook => http://127.0.0.1:64059
+(2022-05-29 15:49:36) : [MSMC][Browser]: [19556:16256:0529/154949.476:error:fallback_task_provider.cc(124)] every renderer should have at least one task provided by a primary task provider. if a "renderer" fallback task is shown, it is a bug. if you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+(2022-05-29 15:49:36) : [MULTISTAR] : [Starting] : Loading (%)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (%)
+(2022-05-29 15:49:36) : [MSMC][Browser]: [19556:12576:0529/154952.765:error:get_updates_processor.cc(298)] postclienttoservermessage() failed during getupdates with error 103
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-05-29 15:49:36) : [MULTISTAR] : Logged in successfully !
+(2022-05-29 15:49:36) : [MULTISTAR] : Getting account information...
+(2022-05-29 15:50:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 15:50:37) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 15:51:45) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 15:51:45) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 15:52:0) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 15:52:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 15:57:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 15:57:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 16:18:49) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 16:18:49) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:4:17) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:4:17) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:14) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:8:14) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:32) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:8:32) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:32) : [object Object]
+(2022-05-29 18:8:32) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:8:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:8:50) : [object Object]
+(2022-05-29 18:9:22) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:22) : [object Object]
+(2022-05-29 18:9:22) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:37) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:9:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:37) : [object Object]
+(2022-05-29 18:9:37) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:37) : [object Object]
+(2022-05-29 18:9:37) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:37) : [object Object]
+(2022-05-29 18:9:37) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:37) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:37) : [object Object]
+(2022-05-29 18:9:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:37) : [object Object]
+(2022-05-29 18:9:37) : [MULTISTAR] : There is a new version available!
+(2022-05-29 18:9:57) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Settings saved !
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:9:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:9:57) : [object Object]
+(2022-05-29 18:9:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:53:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:53:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:53:0) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:55:2) : [object Object]
+(2022-05-29 18:55:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:56:43) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:56:43) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:56:43) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:56:43) : [object Object]
+(2022-05-29 18:57:9) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:57:9) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:57:9) : [object Object]
+(2022-05-29 18:57:9) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:57:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:57:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:57:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:57:48) : [object Object]
+(2022-05-29 18:58:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:58:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:58:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:58:48) : [object Object]
+(2022-05-29 18:59:32) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 18:59:32) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 18:59:32) : [MULTISTAR] : You are up to date!
+(2022-05-29 18:59:32) : [object Object]
+(2022-05-29 19:0:3) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:0:3) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:0:3) : [object Object]
+(2022-05-29 19:0:3) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:0:49) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:0:49) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:0:49) : [object Object]
+(2022-05-29 19:0:49) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:1:41) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:1:41) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:1:41) : [object Object]
+(2022-05-29 19:1:41) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:2:7) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:2:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:2:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:2:7) : [object Object]
+(2022-05-29 19:2:38) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:2:38) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:2:38) : [object Object]
+(2022-05-29 19:2:38) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:2:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:2:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:2:48) : [object Object]
+(2022-05-29 19:2:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:3:31) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:3:31) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:3:31) : [object Object]
+(2022-05-29 19:3:31) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:3:44) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:3:44) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:3:44) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:3:44) : [object Object]
+(2022-05-29 19:4:17) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:4:17) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:4:17) : [object Object]
+(2022-05-29 19:4:17) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:4:45) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:4:45) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:4:45) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:4:45) : [object Object]
+(2022-05-29 19:5:28) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:5:28) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:5:28) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:5:28) : [object Object]
+(2022-05-29 19:6:19) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:6:19) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:6:19) : [object Object]
+(2022-05-29 19:6:19) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:7:2) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:7:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:7:2) : [object Object]
+(2022-05-29 19:7:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:7:33) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:7:33) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:7:33) : [object Object]
+(2022-05-29 19:7:33) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:7:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:7:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:7:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:7:48) : [object Object]
+(2022-05-29 19:8:54) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:8:54) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:8:54) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:8:54) : [object Object]
+(2022-05-29 19:9:7) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:7) : [object Object]
+(2022-05-29 19:9:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:34) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:34) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:9:34) : [object Object]
+(2022-05-29 19:9:34) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:50) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:9:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:9:50) : [object Object]
+(2022-05-29 19:9:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:9:50) : [object Object]
+(2022-05-29 19:9:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:10:25) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:10:25) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:10:25) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:10:25) : [object Object]
+(2022-05-29 19:15:30) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:15:30) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:15:30) : [object Object]
+(2022-05-29 19:15:30) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:20:52) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:20:52) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:20:52) : [object Object]
+(2022-05-29 19:20:52) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:32:43) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:32:43) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:32:43) : [object Object]
+(2022-05-29 19:32:43) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:33:20) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:33:20) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:33:20) : [object Object]
+(2022-05-29 19:33:20) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:34:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:34:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:34:12) : [object Object]
+(2022-05-29 19:34:12) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:34:26) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:34:26) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:34:26) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:34:26) : [object Object]
+(2022-05-29 19:35:37) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:35:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:35:37) : [object Object]
+(2022-05-29 19:35:37) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:35:50) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:35:50) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:35:50) : [object Object]
+(2022-05-29 19:35:50) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:36:21) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:36:21) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:36:21) : [object Object]
+(2022-05-29 19:36:21) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:36:38) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:36:38) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:36:38) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:36:38) : [object Object]
+(2022-05-29 19:37:10) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:37:10) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:37:10) : [object Object]
+(2022-05-29 19:37:10) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:37:31) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:37:31) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:37:31) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:37:31) : [object Object]
+(2022-05-29 19:38:3) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:38:3) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:38:3) : [object Object]
+(2022-05-29 19:38:3) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:38:39) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:38:39) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:38:39) : [object Object]
+(2022-05-29 19:38:39) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:39:26) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:39:26) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:39:26) : [object Object]
+(2022-05-29 19:39:26) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:39:56) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:39:56) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:39:56) : [object Object]
+(2022-05-29 19:39:56) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:40:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:40:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:40:12) : [object Object]
+(2022-05-29 19:40:12) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:40:24) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:40:24) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:40:24) : [object Object]
+(2022-05-29 19:40:24) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:40:47) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:40:47) : [object Object]
+(2022-05-29 19:40:47) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:40:47) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:41:26) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:41:26) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:41:26) : [object Object]
+(2022-05-29 19:41:26) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:41:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:41:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:41:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:41:48) : [object Object]
+(2022-05-29 19:42:11) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:42:11) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:42:11) : [object Object]
+(2022-05-29 19:42:11) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:42:49) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:42:49) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:42:49) : [object Object]
+(2022-05-29 19:42:49) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:43:47) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:43:47) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:43:47) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:43:47) : [object Object]
+(2022-05-29 19:44:20) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:44:20) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:44:20) : [object Object]
+(2022-05-29 19:44:20) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:44:54) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:44:54) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:44:54) : [object Object]
+(2022-05-29 19:44:54) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:45:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:45:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:45:12) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:45:12) : [object Object]
+(2022-05-29 19:45:23) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:45:23) : [object Object]
+(2022-05-29 19:45:23) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:45:23) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:45:58) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:45:58) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:45:58) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:45:58) : [object Object]
+(2022-05-29 19:46:11) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:46:11) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:46:11) : [object Object]
+(2022-05-29 19:46:11) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:46:21) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:46:21) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:46:21) : [object Object]
+(2022-05-29 19:46:21) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:46:37) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:46:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:46:37) : [object Object]
+(2022-05-29 19:46:37) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:47:1) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:47:1) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:47:1) : [object Object]
+(2022-05-29 19:47:1) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:47:18) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:47:18) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:47:18) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:47:18) : [object Object]
+(2022-05-29 19:47:54) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:47:54) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:47:54) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:47:54) : [object Object]
+(2022-05-29 19:48:11) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:48:11) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:48:11) : [object Object]
+(2022-05-29 19:48:11) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:48:22) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:48:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:48:22) : [object Object]
+(2022-05-29 19:48:22) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:48:33) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:48:33) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:48:33) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:48:33) : [object Object]
+(2022-05-29 19:48:46) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:48:46) : [object Object]
+(2022-05-29 19:48:46) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:48:46) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:49:4) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:49:4) : [object Object]
+(2022-05-29 19:49:4) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:49:4) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:49:15) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:49:15) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:49:15) : [object Object]
+(2022-05-29 19:49:15) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:55:39) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:55:39) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:55:39) : [object Object]
+(2022-05-29 19:55:39) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:58:2) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:58:2) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:58:2) : [object Object]
+(2022-05-29 19:58:2) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:58:54) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 19:58:54) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 19:58:54) : [MULTISTAR] : You are up to date!
+(2022-05-29 19:58:54) : [object Object]
+(2022-05-29 20:0:34) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:0:34) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:0:34) : [object Object]
+(2022-05-29 20:0:34) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:2:49) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:2:49) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:2:49) : [object Object]
+(2022-05-29 20:2:49) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:3:32) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:3:32) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:3:32) : [object Object]
+(2022-05-29 20:3:32) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:4:7) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:4:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:4:7) : [object Object]
+(2022-05-29 20:4:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:4:25) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:4:25) : [object Object]
+(2022-05-29 20:4:25) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:4:25) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:5:42) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:5:42) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:5:42) : [object Object]
+(2022-05-29 20:5:42) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:6:19) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:6:19) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:6:19) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:6:19) : [object Object]
+(2022-05-29 20:6:56) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:6:56) : [object Object]
+(2022-05-29 20:6:56) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:6:56) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:6:56) : 
+(2022-05-29 20:17:34) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:17:34) : Checking for oldUpdate data
+(2022-05-29 20:17:34) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:17:34) : [object Object]
+(2022-05-29 20:17:34) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:18:13) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:18:13) : Checking for oldUpdate data
+(2022-05-29 20:18:39) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:18:39) : Checking for oldUpdate data
+(2022-05-29 20:18:39) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:18:39) : [object Object]
+(2022-05-29 20:18:39) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:18:39) : 
+(2022-05-29 20:18:39) : 
+(2022-05-29 20:18:39) : D:\Libraries\Developpement\MultiStar Launcher\clientsoftware\src
+(2022-05-29 20:18:39) : D:\Libraries\Developpement\MultiStar Launcher\clientsoftware\src
+(2022-05-29 20:18:39) : {
+    "1": "one",
+    "2": "two",
+    "3": "three"
+}
+(2022-05-29 20:19:39) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:19:39) : Checking for oldUpdate data
+(2022-05-29 20:19:39) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:19:39) : [object Object]
+(2022-05-29 20:19:39) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:19:39) : {
+    "1": "one",
+    "2": "two",
+    "3": "three"
+}
+(2022-05-29 20:20:14) : Checking for oldUpdate data
+(2022-05-29 20:20:14) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:20:14) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:20:14) : [object Object]
+(2022-05-29 20:20:14) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:20:14) : 13
+(2022-05-29 20:20:14) : 123
+(2022-05-29 20:20:14) : 10
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 49
+(2022-05-29 20:20:14) : 58
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 111
+(2022-05-29 20:20:14) : 110
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 101
+(2022-05-29 20:20:14) : 13
+(2022-05-29 20:20:14) : 44
+(2022-05-29 20:20:14) : 10
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 58
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 50
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 116
+(2022-05-29 20:20:14) : 119
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 44
+(2022-05-29 20:20:14) : 111
+(2022-05-29 20:20:14) : 13
+(2022-05-29 20:20:14) : 10
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 51
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 58
+(2022-05-29 20:20:14) : 32
+(2022-05-29 20:20:14) : 116
+(2022-05-29 20:20:14) : 104
+(2022-05-29 20:20:14) : 114
+(2022-05-29 20:20:14) : 101
+(2022-05-29 20:20:14) : 34
+(2022-05-29 20:20:14) : 101
+(2022-05-29 20:20:14) : 13
+(2022-05-29 20:20:14) : 10
+(2022-05-29 20:20:14) : 125
+(2022-05-29 20:20:37) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:20:37) : Checking for oldUpdate data
+(2022-05-29 20:20:37) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:20:37) : [object Object]
+(2022-05-29 20:20:37) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:20:37) : 123
+(2022-05-29 20:20:37) : 10
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 49
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 58
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 111
+(2022-05-29 20:20:37) : 110
+(2022-05-29 20:20:37) : 101
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 44
+(2022-05-29 20:20:37) : 13
+(2022-05-29 20:20:37) : 13
+(2022-05-29 20:20:37) : 10
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 50
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 58
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 116
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 13
+(2022-05-29 20:20:37) : 44
+(2022-05-29 20:20:37) : 10
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 51
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 58
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 32
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 116
+(2022-05-29 20:20:37) : 104
+(2022-05-29 20:20:37) : 114
+(2022-05-29 20:20:37) : 111
+(2022-05-29 20:20:37) : 101
+(2022-05-29 20:20:37) : 34
+(2022-05-29 20:20:37) : 101
+(2022-05-29 20:20:37) : 10
+(2022-05-29 20:20:37) : 125
+(2022-05-29 20:20:37) : 13
+(2022-05-29 20:20:37) : 119
+(2022-05-29 20:20:48) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:20:48) : Checking for oldUpdate data
+(2022-05-29 20:20:48) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:20:48) : [object Object]
+(2022-05-29 20:20:48) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:21:28) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:21:28) : [object Object]
+(2022-05-29 20:21:28) : Checking for oldUpdate data
+(2022-05-29 20:21:28) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:21:28) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:21:28) : {
+    "1": "one",
+    "2": "two",
+    "3": "three"
+}
+(2022-05-29 20:22:7) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:22:7) : Checking for oldUpdate data
+(2022-05-29 20:22:7) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:22:7) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:22:7) : [object Object]
+(2022-05-29 20:22:7) : {
+    "1": "one",
+    "2": "two",
+    "3": "three"
+}
+(2022-05-29 20:24:11) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:24:11) : Checking for oldUpdate data
+(2022-05-29 20:24:11) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:24:11) : [object Object]
+(2022-05-29 20:24:11) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:24:11) : {
+(2022-05-29 20:24:11) :     "1": "one",
+(2022-05-29 20:24:11) :     "3": "three"
+(2022-05-29 20:24:11) : }
+(2022-05-29 20:24:11) :     "2": "two",
+(2022-05-29 20:25:42) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:25:42) : Checking for oldUpdate data
+(2022-05-29 20:25:42) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:25:42) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:25:42) : [object Object]
+(2022-05-29 20:25:42) : { : undefined
+(2022-05-29 20:25:42) :     "1" : "one",
+(2022-05-29 20:25:42) :     "2" : "two",
+(2022-05-29 20:25:42) :     "3" : "three"
+(2022-05-29 20:25:42) : } : undefined
+(2022-05-29 20:27:49) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:27:49) : Checking for oldUpdate data
+(2022-05-29 20:27:49) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:27:49) : [object Object]
+(2022-05-29 20:27:49) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:27:49) : Setting     "1" to "one",
+(2022-05-29 20:27:49) : Setting     "2" to "two",
+(2022-05-29 20:27:49) : Setting     "3" to "three"
+(2022-05-29 20:28:6) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:28:6) : Checking for oldUpdate data
+(2022-05-29 20:28:6) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:28:6) : [object Object]
+(2022-05-29 20:28:6) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:28:34) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:28:34) : Checking for oldUpdate data
+(2022-05-29 20:28:34) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:28:34) : [object Object]
+(2022-05-29 20:28:34) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:29:4) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:29:4) : Checking for oldUpdate data
+(2022-05-29 20:29:4) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:29:4) : [object Object]
+(2022-05-29 20:29:4) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:29:36) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:29:36) : Checking for oldUpdate data
+(2022-05-29 20:29:36) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:29:36) : [object Object]
+(2022-05-29 20:29:36) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:30:16) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:30:16) : Checking for oldUpdate data
+(2022-05-29 20:30:16) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:30:16) : [object Object]
+(2022-05-29 20:30:16) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:30:45) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:30:45) : [object Object]
+(2022-05-29 20:30:45) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:30:45) : Checking for oldUpdate data
+(2022-05-29 20:30:45) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:31:33) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:31:33) : Checking for oldUpdate data
+(2022-05-29 20:31:33) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:31:33) : [object Object]
+(2022-05-29 20:31:33) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:33:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:33:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:33:12) : Checking for oldUpdate data
+(2022-05-29 20:33:12) : [object Object]
+(2022-05-29 20:33:12) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:35:0) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:35:0) : Checking for oldUpdate data
+(2022-05-29 20:35:0) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:35:0) : [object Object]
+(2022-05-29 20:35:0) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:35:26) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:35:26) : Checking for oldUpdate data
+(2022-05-29 20:35:26) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:35:26) : [object Object]
+(2022-05-29 20:35:26) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:35:57) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:35:57) : Checking for oldUpdate data
+(2022-05-29 20:35:57) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:35:57) : [object Object]
+(2022-05-29 20:35:57) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:36:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:36:12) : Checking for oldUpdate data
+(2022-05-29 20:36:12) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:36:12) : [object Object]
+(2022-05-29 20:36:12) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:42:46) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:42:46) : Checking for oldUpdate data
+(2022-05-29 20:42:46) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:42:46) : [object Object]
+(2022-05-29 20:42:46) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:43:36) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:43:36) : Checking for oldUpdate data
+(2022-05-29 20:43:36) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:43:36) : [object Object]
+(2022-05-29 20:43:36) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:44:16) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:44:16) : Checking for oldUpdate data
+(2022-05-29 20:44:16) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:44:16) : [object Object]
+(2022-05-29 20:44:16) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:46:22) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:46:22) : Checking for oldUpdate data
+(2022-05-29 20:46:22) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:46:22) : [object Object]
+(2022-05-29 20:46:22) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:46:42) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:46:42) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 20:46:42) : Checking for oldUpdate data
+(2022-05-29 20:46:42) : [object Object]
+(2022-05-29 20:46:42) : [MULTISTAR] : You are up to date!
+(2022-05-29 20:52:53) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:52:53) : Checking for oldUpdate data
+(2022-05-29 20:52:53) : Checking for oldUpdate data
+(2022-05-29 20:53:54) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:53:54) : Checking for oldUpdate data
+(2022-05-29 20:53:54) : Finished
+(2022-05-29 20:53:54) : Finished
+(2022-05-29 20:54:12) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:54:12) : Checking for oldUpdate data
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Checking for oldUpdate data
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Checking for oldUpdate data
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Checking for oldUpdate data
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : Finished
+(2022-05-29 20:54:12) : [MULTISTAR] : Settings saved !
+(2022-05-29 20:54:51) : Checking for oldUpdate data
+(2022-05-29 20:54:51) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:54:51) : Finished
+(2022-05-29 20:54:51) : Finished
+(2022-05-29 20:54:51) : Checking for oldUpdate data
+(2022-05-29 20:54:51) : Finished
+(2022-05-29 20:54:51) : Finished
+(2022-05-29 20:55:32) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:55:32) : Checking for oldUpdate data
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : Checking for oldUpdate data
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : Checking for oldUpdate data
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : Finished
+(2022-05-29 20:55:32) : [MULTISTAR] : Settings saved !
+(2022-05-29 20:56:33) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:56:33) : Checking for oldUpdate data
+(2022-05-29 20:57:38) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:57:38) : Checking for oldUpdate data
+(2022-05-29 20:57:38) : Finished
+(2022-05-29 20:57:38) : Finished
+(2022-05-29 20:58:8) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:58:8) : Checking for oldUpdate data
+(2022-05-29 20:58:8) : Finished
+(2022-05-29 20:58:8) : Finished
+(2022-05-29 20:58:27) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:58:27) : Checking for oldUpdate data
+(2022-05-29 20:58:27) : Finished
+(2022-05-29 20:58:27) : Finished
+(2022-05-29 20:58:55) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:58:55) : Checking for oldUpdate data
+(2022-05-29 20:58:55) : Finished
+(2022-05-29 20:58:55) : Finished
+(2022-05-29 20:59:5) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:59:5) : Checking for oldUpdate data
+(2022-05-29 20:59:5) : Finished
+(2022-05-29 20:59:5) : Finished
+(2022-05-29 20:59:17) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:59:17) : Checking for oldUpdate data
+(2022-05-29 20:59:17) : Finished
+(2022-05-29 20:59:17) : Finished
+(2022-05-29 20:59:41) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:59:41) : Checking for oldUpdate data
+(2022-05-29 20:59:41) : Finished
+(2022-05-29 20:59:41) : Finished
+(2022-05-29 20:59:53) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 20:59:53) : Checking for oldUpdate data
+(2022-05-29 20:59:53) : Finished
+(2022-05-29 20:59:53) : Finished
+(2022-05-29 21:0:16) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 21:0:16) : Checking for oldUpdate data
+(2022-05-29 21:0:16) : Finished
+(2022-05-29 21:0:16) : Finished
+(2022-05-29 21:2:13) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 21:2:13) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 21:2:13) : [object Object]
+(2022-05-29 21:2:13) : [MULTISTAR] : You are up to date!
+(2022-05-29 21:2:25) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 21:2:25) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 21:2:25) : [object Object]
+(2022-05-29 21:2:25) : [MULTISTAR] : You are up to date!
+(2022-05-29 21:3:9) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 21:3:9) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 21:3:9) : [MULTISTAR] : You are up to date!
+(2022-05-29 21:3:9) : [object Object]
+(2022-05-29 21:3:18) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-05-29 21:3:18) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 21:3:18) : [object Object]
+(2022-05-29 21:3:18) : [MULTISTAR] : You are up to date!
+(2022-05-29 21:3:18) : [MULTISTAR] : Getting current version on the server...
+(2022-05-29 21:3:18) : [object Object]
+(2022-05-29 21:3:18) : [MULTISTAR] : You are up to date!
+(2022-05-29 21:3:18) : [MULTISTAR] : Settings saved !

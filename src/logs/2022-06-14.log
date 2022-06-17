@@ -1,0 +1,46 @@
+(2022-06-14 23:33:19) : [MULTISTAR] : Logged in successfully !
+(2022-06-14 23:33:19) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-06-14 23:33:19) : [MULTISTAR] : Getting current version on the server...
+(2022-06-14 23:33:19) : [object Object]
+(2022-06-14 23:33:19) : [MULTISTAR] : You are up to date!
+(2022-06-14 23:33:19) : [MULTISTAR] : Logged In !
+(2022-06-14 23:33:19) : [MULTISTAR] : Getting account information...
+(2022-06-14 23:33:19) : [MULTISTAR] : Settings saved !
+(2022-06-14 23:33:19) : [MULTISTAR] : Settings saved !
+(2022-06-14 23:33:19) : [MULTISTAR] : Settings saved !
+(2022-06-14 23:33:19) : a05a90-6e23be-5fde91-a6da11-b8bcaa
+(2022-06-14 23:33:19) : [MULTISTAR] : Starting!
+(2022-06-14 23:33:19) : [MULTISTAR] : [MCLC]: Collected class paths
+(2022-06-14 23:33:19) : [MULTISTAR] : [MCLC]: Using Java version 17.0.3 64-bit
+(2022-06-14 23:33:19) : [MULTISTAR] : [MCLC]: Set native path to D:\Libraries\Developpement\MultiStar_Launcher\clientsoftware\client\natives\1.18.1
+(2022-06-14 23:33:19) : [MULTISTAR] : [MCLC]: Using ; to separate class paths
+(2022-06-14 23:33:19) : [MULTISTAR] : [MCLC]: Attempting to download assets
+(2022-06-14 23:37:0) : [MULTISTAR] : Not logged in ! Please log in !
+(2022-06-14 23:37:0) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-06-14 23:37:0) : [MULTISTAR] : Getting current version on the server...
+(2022-06-14 23:37:0) : [MULTISTAR] : You are up to date!
+(2022-06-14 23:37:0) : [object Object]
+(2022-06-14 23:37:0) : [MSMC]: OS Type => Windows_NT
+(2022-06-14 23:37:0) : reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe"
+(2022-06-14 23:37:0) : [MSMC][Browser]: devtools listening on ws://127.0.0.1:50145/devtools/browser/2ac53e39-c2d5-41bb-9504-960c00d45018
+(2022-06-14 23:37:0) : [MSMC]: Debug hook => http://127.0.0.1:50145
+(2022-06-14 23:37:0) : [MULTISTAR] : [Starting] : Loading (%)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (%)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : [Loading] : Loading (LoadingEvent)
+(2022-06-14 23:37:0) : [MULTISTAR] : Logged in successfully !
+(2022-06-14 23:37:0) : [MULTISTAR] : Getting account information...
+(2022-06-14 23:37:0) : Cbon
+(2022-06-14 23:38:8) : [MULTISTAR] : Not logged in ! Please log in !
+(2022-06-14 23:38:8) : =====================(NEW EXECUTION OF MULTISTAR)=====================
+
+(2022-06-14 23:38:8) : [MULTISTAR] : Getting current version on the server...
+(2022-06-14 23:38:8) : [object Object]
+(2022-06-14 23:38:8) : [MULTISTAR] : You are up to date!
